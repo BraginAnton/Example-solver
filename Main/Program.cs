@@ -7,6 +7,8 @@ namespace Main
 
         static void Main(string[] args)
         {
+            Console.WriteLine("*Example solver 1.0*\n");
+
             while (true)
             {
                 try
